@@ -4,6 +4,7 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Prebuilt Apps
 PRODUCT_PACKAGES += \
+    BCR \
     OPFiles \
     OPGallery \
-    Viper4Android
+    ViPER4AndroidFX 
